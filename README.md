@@ -14,8 +14,6 @@
 
 I'm a Software Engineer specializing in **Full-Stack Development** and **Generative AI**, currently pursuing a Bachelor of Computer Applications (BCA) at Som Lalit Institute of Computer Applications, Gujarat University.
 
-I build modern, scalable applications using **Next.js, React, Node.js, PostgreSQL, and MongoDB**, and actively integrate **LangChain, OpenAI, and AI Agents** into my workflow to create intelligent, performance-driven solutions. Whether it's architecting robust backend systems with Docker or crafting intuitive frontends, I focus on writing clean, maintainable code grounded in strong system design.
-
 - 🏆 **Hackathon Winner** — Brahma Code 2.0, SKIPS University (Feb 2026)
 - 🚀 **Founder & Community Organizer** — Code Builders, a student-led coding community
 - 🌱 Currently deepening my knowledge of AI agents, LangChain, Langgraph
